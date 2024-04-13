@@ -1,0 +1,6 @@
+opencv-python
+numpy
+Pillow
+websockets
+mss
+scikit-learn
